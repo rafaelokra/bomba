@@ -99,7 +99,7 @@
     }
   
     function aoClicarLentoNoBotao(e) {
-      window.location.href = "https://pt.vecteezy.com/video/1625574-bomba-de-fogo-ou-explosao-nuclear";
+        window.location.href = "https://i.imgur.com/rU7rGx7.mp4";
     }
   
     document.addEventListener("DOMContentLoaded", quandoADOMEstiverPronta);
